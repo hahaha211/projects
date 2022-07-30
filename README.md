@@ -10,9 +10,9 @@ Github账号地址：https://github.com/hahaha211
 # 项目完成情况
 共完成了5个项目，下面为详细信息：
 ## 1. SM3-birthday-attack
-name：implement the naïve birthday attack of reduced SM3
+name: implement the naïve birthday attack of reduced SM3
 
-link：https://github.com/hahaha211/SM3-Brithday-Attack
+link: https://github.com/hahaha211/SM3-Brithday-Attack
 
 ## 2. SM3-LenExtenAttack
 name: implement length extension attack for SM3, SHA256, etc
