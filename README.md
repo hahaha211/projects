@@ -3,12 +3,14 @@
 
 学号：202000460030
 
-组队成员（1人）：20网安1班-刘志国
+组队成员（1人）：20网安1班-刘志国-202000460030
+
+Github账户名称：hahaha211
 
 Github账号地址：https://github.com/hahaha211
 
 # 项目完成情况
-共完成了5个项目，下面为详细信息：
+共完成了5个项目，均为个人完成，下面为详细信息：
 ## 1. SM3-birthday-attack
 name: implement the naïve birthday attack of reduced SM3
 
