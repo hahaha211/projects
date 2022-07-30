@@ -29,10 +29,10 @@ name: impl sm2 with RFC6979
 
 link: https://github.com/hahaha211/SM2-impl
 
-## 5. SM4
-name: do your best to optimize SM3 implementation
+## 5. SM2-ecmh
+name: Implement the above ECMH scheme
 
-link: https://github.com/hahaha211/SM4
+link: https://github.com/hahaha211/SM2-ecmh
 
 ## 已完成项目的具体内容部分均在相应项目中，在此不做赘述。
 
@@ -42,7 +42,7 @@ link: https://github.com/hahaha211/SM4
 3. Try to Implement this scheme(below)
 4. report on the application of this deduce technique in Ethereum with ECDSA
 5. verify the above pitfalls with proof-of-concept cod
-6. Implement the above ECMH scheme
+6. Implement a PGP scheme with SM2
 7. implement sm2 2P sign with real network communication
 8. implement sm2 2P decrypt with real network communication
 9. PoC impl of the scheme, or do implement analysis by Google
