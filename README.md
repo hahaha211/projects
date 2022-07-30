@@ -29,10 +29,10 @@ name: impl sm2 with RFC6979
 
 link: https://github.com/hahaha211/SM2-impl
 
-## 5. SM2-PGP
-name: Implement a PGP scheme with SM2
+## 5. SM4
+name: do your best to optimize SM3 implementation
 
-link: https://github.com/hahaha211/SM2-PGP
+link: https://github.com/hahaha211/SM4
 
 ## 已完成项目的具体内容部分均在相应项目中，在此不做赘述。
 
